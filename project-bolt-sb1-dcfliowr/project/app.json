@@ -12,12 +12,14 @@
       "package": "com.zilmatik.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "backgroundColor": "#0066CC"
+      },
+      "versionCode": 1
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.zilmatik.app"
+      "bundleIdentifier": "com.zilmatik.app",
+      "buildNumber": "1"
     },
     "web": {
       "bundler": "metro",
